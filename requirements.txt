@@ -1,0 +1,8 @@
+pandas
+streamlit
+plotly.express
+datetime 
+plotly.graph_objects 
+numpy
+streamlit_extras.metric_cards 
+os
