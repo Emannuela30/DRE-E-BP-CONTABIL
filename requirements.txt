@@ -3,4 +3,3 @@ streamlit
 plotly.express
 datetime  
 numpy
-os
