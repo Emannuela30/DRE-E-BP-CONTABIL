@@ -4,3 +4,4 @@ plotly.express
 datetime  
 numpy
 streamlit.extras
+openpyxl
