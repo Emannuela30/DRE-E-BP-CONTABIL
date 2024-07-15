@@ -3,5 +3,4 @@ streamlit
 plotly.express
 datetime  
 numpy
-streamlit_extras.metric_cards 
 os
