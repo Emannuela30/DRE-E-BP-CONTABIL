@@ -1,8 +1,7 @@
 pandas
 streamlit
 plotly.express
-datetime 
-plotly.graph_objects 
+datetime  
 numpy
 streamlit_extras.metric_cards 
 os
