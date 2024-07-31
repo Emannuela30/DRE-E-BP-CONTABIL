@@ -5,7 +5,7 @@ import datetime as dt
 import plotly.graph_objects as go
 import numpy as np
 from streamlit_extras.metric_cards import style_metric_cards
-st.set_option('deprecation.showPyplotGlobalUse', False)
+
 import os
 
 
